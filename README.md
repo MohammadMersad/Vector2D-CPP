@@ -1,3 +1,6 @@
+![repo-size]
+![repo-stars]
+
 # Vector 2D C++ Library
 
 ## Discription
@@ -17,3 +20,6 @@ To use the `Vector2D` library, simply include the header file in your C++ projec
 ```cpp
 #include "Vector2D.h"
 ```
+
+[repo-size]: https://img.shields.io/github/repo-size/MohammadMersad/Vector2D-CPP?style=for-the-badge&label=Reposotory%20Size
+[repo-stars]: https://img.shields.io/github/stars/MohammadMersad/Vector2D-CPP?style=for-the-badge&color=%23eb9834
