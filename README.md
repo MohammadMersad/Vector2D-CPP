@@ -3,6 +3,9 @@
 
 # Vector 2D C++ Library
 
+> **Warning:**  
+> This project is currently incomplete and still has a lot of work to be done. Stay tuned for updates!
+
 ## Discription
 
 The `Vector2D` is a simple **C++ library** that represents a **2D vector** with `x` and `y` values. This library provides basic vector operations such as addition, subtraction, scalar multiplication, and dot product. It is designed to be lightweight and efficient for use in games, simulations, or mathematical calculations.
