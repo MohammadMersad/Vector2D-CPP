@@ -43,7 +43,7 @@ void Vector2D::setX(const double& n_v) {
 }
 
 void Vector2D::setY(const double& n_v) {
-	this->x = n_v;
+	this->y = n_v;
 }
 
 //Other Functions
